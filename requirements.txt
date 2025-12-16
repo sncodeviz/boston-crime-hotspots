@@ -1,6 +1,8 @@
 streamlit
 pandas
 geopandas
-pydeck
 pyarrow
 shapely
+folium
+streamlit-folium
+
