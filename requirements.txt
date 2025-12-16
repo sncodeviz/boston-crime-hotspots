@@ -5,4 +5,6 @@ pyarrow
 shapely
 folium
 streamlit-folium
+numpy
+
 
